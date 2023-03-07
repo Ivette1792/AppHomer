@@ -1,0 +1,15 @@
+:root {
+    /* fonts */
+    --font-irish-grover: "Irish Grover";
+    --font-jetbrains-mono: "JetBrains Mono";
+
+    /* font sizes */
+    --font-size-base: 32px;
+
+    /* Colors */
+    --color-yellow-100: #e7eb16;
+    --color-black: #000;
+
+    /* border radiuses */
+    --br-md: 30px;
+}

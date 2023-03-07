@@ -1,0 +1,34 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+.afc444-4f7e-4a9d-893c-23d2eefe-icon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-md);
+  width: 390px;
+  height: 844px;
+  object-fit: cover;
+}
+.mmmdelicius {
+  position: absolute;
+  top: 768px;
+  left: 82px;
+  display: inline-block;
+  width: 231px;
+  height: 38px;
+  text-shadow: 0 8px 4px rgba(0, 0, 0, 0.5);
+}
+.iphone-13-13-pro-2 {
+  position: relative;
+  border-radius: var(--br-md);
+  background-color: var(--color-yellow-100);
+  width: 100%;
+  height: 844px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-base);
+  color: var(--color-black);
+  font-family: var(--font-irish-grover);
+}
